@@ -1,0 +1,52 @@
+body{
+	background: url(pokemon.jpg) repeat;
+}
+
+.other_pages:{
+	background-color: black;
+}
+
+#title{
+	margin-bottom: 20px;
+}
+
+#mapholder{
+	border-color: red;
+	border-width: 1px;
+	border-style: solid;
+}
+
+form {
+	margin-top: 20px;
+}
+
+.navbar-inverse .navbar-inner {
+	background-image: linear-gradient(to bottom, white, F0F0F0 );
+	background-color: grey;
+	border-color: red;
+	
+}
+
+.hero-unit {
+	border-color: red;
+	border-width: 1px;
+	border-style: solid;
+}
+
+.span4{
+	background-color: #eeeeee;
+	border-radius: 5px;
+	width: 294px;
+		border-color: red;
+	border-width: 1px;
+	border-style: solid;
+}
+
+.home_submit_top{
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+.top_review_text {
+	text-align: center;
+}
